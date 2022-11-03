@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: f8d606968c1b918408636a83f5661153
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2516186568892588924
+    second: soma_0
+  - first:
+      213: -7211571796445399737
+    second: soma_1
+  - first:
+      213: 3673116527239981582
+    second: soma_2
+  - first:
+      213: 5750142843057422767
+    second: soma_3
+  - first:
+      213: -5548374526968422183
+    second: soma_4
+  - first:
+      213: 2367787517025031395
+    second: soma_5
+  - first:
+      213: 1627225498482404994
+    second: soma_6
+  - first:
+      213: -4790171679271558139
+    second: soma_7
+  - first:
+      213: 6638692725709559608
+    second: soma_8
+  - first:
+      213: 2411465331520316529
+    second: soma_9
+  - first:
+      213: 4169462402626057672
+    second: soma_10
+  - first:
+      213: -8421315338411894569
+    second: soma_11
+  - first:
+      213: 668541935075547171
+    second: soma_12
+  - first:
+      213: -4482167797043582055
+    second: soma_13
+  - first:
+      213: -1630989894608328607
+    second: soma_14
+  - first:
+      213: -1347272005468383823
+    second: soma_15
+  - first:
+      213: 3665192608954199469
+    second: soma_16
+  - first:
+      213: 2232186576948868944
+    second: soma_17
+  - first:
+      213: 6446803196554523883
+    second: soma_18
+  - first:
+      213: -5478660845357461726
+    second: soma_19
+  - first:
+      213: 8154202406652929512
+    second: soma_20
+  - first:
+      213: -8653007657613730931
+    second: soma_21
+  - first:
+      213: -6041261881201098535
+    second: soma_22
+  - first:
+      213: 6546659647479428058
+    second: soma_23
+  - first:
+      213: -4428741510452446510
+    second: soma_24
+  - first:
+      213: 5342405711030434009
+    second: soma_25
+  - first:
+      213: -4885574321215539983
+    second: soma_26
+  - first:
+      213: 5865439678249722866
+    second: soma_27
+  - first:
+      213: 5664429948678844365
+    second: soma_28
+  - first:
+      213: 7642240575071202565
+    second: soma_29
+  - first:
+      213: 4701302537577447718
+    second: soma_30
+  - first:
+      213: -4466218593798250970
+    second: soma_31
+  - first:
+      213: -6739920148719210913
+    second: soma_32
+  - first:
+      213: 5530873276112720477
+    second: soma_33
+  - first:
+      213: 5881856213210983200
+    second: soma_34
+  - first:
+      213: -1016133420910441727
+    second: soma_35
+  - first:
+      213: -1845294963540239431
+    second: soma_36
+  - first:
+      213: 5311985373980252780
+    second: soma_37
+  - first:
+      213: 3400966966393387007
+    second: soma_38
+  - first:
+      213: -5379700855826665274
+    second: soma_39
+  - first:
+      213: -374518477392307665
+    second: soma_40
+  - first:
+      213: -1985318433848753490
+    second: soma_41
+  - first:
+      213: -4353218338122238628
+    second: soma_42
+  - first:
+      213: -8730408261765556763
+    second: soma_43
+  - first:
+      213: -559192580949864216
+    second: soma_44
+  - first:
+      213: 3928942231913736435
+    second: soma_45
+  - first:
+      213: 8279974233073362878
+    second: soma_46
+  - first:
+      213: -3815941328401532710
+    second: soma_47
+  - first:
+      213: 1804316913802579120
+    second: soma_48
+  - first:
+      213: -5322657275856256604
+    second: soma_49
+  - first:
+      213: 5996073738799974251
+    second: soma_50
+  - first:
+      213: -3098412672031298783
+    second: soma_51
+  - first:
+      213: 4387491975729714362
+    second: soma_52
+  - first:
+      213: -4033160564593290661
+    second: soma_53
+  - first:
+      213: -4217285168083303564
+    second: soma_54
+  - first:
+      213: 5533905833543323024
+    second: soma_55
+  - first:
+      213: -4481415407173504531
+    second: soma_56
+  - first:
+      213: 4777257317320930740
+    second: soma_57
+  - first:
+      213: -7143300772333146445
+    second: soma_58
+  - first:
+      213: 7348275463369813144
+    second: soma_59
+  - first:
+      213: -5172666888116112760
+    second: soma_60
+  - first:
+      213: -709166251909818873
+    second: soma_61
+  - first:
+      213: -9142123729959932585
+    second: soma_62
+  - first:
+      213: -7175450247291944374
+    second: soma_63
+  - first:
+      213: -1243820649977699411
+    second: soma_64
+  - first:
+      213: -6626789431881971830
+    second: soma_65
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soma_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 352
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a3736a5a4be220800000000000000
+      internalID: 2516186568892588924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 352
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74575a0e8a95beb90800000000000000
+      internalID: -7211571796445399737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 352
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a61c0450889f230800000000000000
+      internalID: 3673116527239981582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 352
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14130437c9ccf40800000000000000
+      internalID: 5750142843057422767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 295
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0a837a3c63003b0800000000000000
+      internalID: -5548374526968422183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 295
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e491ef93321cd020800000000000000
+      internalID: 2367787517025031395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 295
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e608e28f0159610800000000000000
+      internalID: 1627225498482404994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 295
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e1e3bc34e58db0800000000000000
+      internalID: -4790171679271558139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 296
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83753e85cdf512c50800000000000000
+      internalID: 6638692725709559608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 295
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174207941fe377120800000000000000
+      internalID: 2411465331520316529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 295
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57fd4e6f7ecd930800000000000000
+      internalID: 4169462402626057672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 295
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d81968515a712b80800000000000000
+      internalID: -8421315338411894569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 295
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32851ad0953274900800000000000000
+      internalID: 668541935075547171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 295
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ba589d2242cc1c0800000000000000
+      internalID: -4482167797043582055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 295
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686e9b055f8d59e0800000000000000
+      internalID: -1630989894608328607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 295
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b59a3acf378d4de0800000000000000
+      internalID: -1347272005468383823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 238
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad2a1242416dd230800000000000000
+      internalID: 3665192608954199469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 238
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057be677dd15afe10800000000000000
+      internalID: 2232186576948868944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 238
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43c73c955a77950800000000000000
+      internalID: 6446803196554523883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 238
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f80a30df2e7f3b0800000000000000
+      internalID: -5478660845357461726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 238
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5ee23d2eb892170800000000000000
+      internalID: 8154202406652929512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 238
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd23981675ae780800000000000000
+      internalID: -8653007657613730931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 238
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d086e7b350292ca0800000000000000
+      internalID: -6041261881201098535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3356183486ada50800000000000000
+      internalID: 6546659647479428058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 181
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da747b8f03f982c0800000000000000
+      internalID: -4428741510452446510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8bcfb50b9042a40800000000000000
+      internalID: 5342405711030434009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 181
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47d2c2a04f23cb0800000000000000
+      internalID: -4885574321215539983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_27
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f36e899f4a366150800000000000000
+      internalID: 5865439678249722866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 182
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf2612e6091c9e40800000000000000
+      internalID: 5664429948678844365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 181
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d223d0051be0a60800000000000000
+      internalID: 7642240575071202565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62142f5dfb16e3140800000000000000
+      internalID: 4701302537577447718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_31
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e196b1addc402c0800000000000000
+      internalID: -4466218593798250970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 181
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee719955ef672a0800000000000000
+      internalID: -6739920148719210913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 181
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d525668d0fb91cc40800000000000000
+      internalID: 5530873276112720477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_34
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 181
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b6d50001d80a150800000000000000
+      internalID: 5881856213210983200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_35
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0b329908f5e1f0800000000000000
+      internalID: -1016133420910441727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_36
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 181
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbdd58e1023466e0800000000000000
+      internalID: -1845294963540239431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 181
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ad924bd86f7b940800000000000000
+      internalID: 5311985373980252780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff737b4df69a23f20800000000000000
+      internalID: 3400966966393387007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_39
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0369213967755b0800000000000000
+      internalID: -5379700855826665274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_40
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 181
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1639dd617dcaf0800000000000000
+      internalID: -374518477392307665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_41
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 181
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea20960376bb274e0800000000000000
+      internalID: -1985318433848753490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 124
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f18e5cf24693c0800000000000000
+      internalID: -4353218338122238628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 124
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5145d01fb57d680800000000000000
+      internalID: -8730408261765556763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 124
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e013737f495d38f0800000000000000
+      internalID: -559192580949864216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 124
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8af3cb428668630800000000000000
+      internalID: 3928942231913736435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 124
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a9bf12b068e270800000000000000
+      internalID: 8279974233073362878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f4ec549d0b0bc0800000000000000
+      internalID: -3815941328401532710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 67
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8e656ca83a0910800000000000000
+      internalID: 1804316913802579120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 67
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18073886f1226b0800000000000000
+      internalID: -5322657275856256604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_50
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 67
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6788300c45563350800000000000000
+      internalID: 5996073738799974251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_51
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 67
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b6104471a3005d0800000000000000
+      internalID: -3098412672031298783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 67
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41f3cb4b083ec30800000000000000
+      internalID: 4387491975729714362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529d49c5d55708c0800000000000000
+      internalID: -4033160564593290661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 18
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4730fd7db713975c0800000000000000
+      internalID: -4217285168083303564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 22
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dcfc429026ccc40800000000000000
+      internalID: 5533905833543323024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 21
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1f5744e60dec1c0800000000000000
+      internalID: -4481415407173504531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 16
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5bc87183a3c4240800000000000000
+      internalID: 4777257317320930740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_58
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be2f4d5bc5eddc90800000000000000
+      internalID: -7143300772333146445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_59
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 16
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c60e1e9915af560800000000000000
+      internalID: 7348275463369813144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_60
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 12
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f9680fdef638b0800000000000000
+      internalID: -5172666888116112760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 10
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706583c1d098826f0800000000000000
+      internalID: -709166251909818873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_62
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 10
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75da11797e6a02180800000000000000
+      internalID: -9142123729959932585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_63
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 10
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ccaa640eab6c90800000000000000
+      internalID: -7175450247291944374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_64
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 10
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a8c975bf0dbee0800000000000000
+      internalID: -1243820649977699411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soma_65
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 10
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87cc573f1ae804a0800000000000000
+      internalID: -6626789431881971830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

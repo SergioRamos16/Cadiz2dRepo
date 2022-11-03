@@ -581,6 +581,7 @@ GameObject:
   m_Component:
   - component: {fileID: 932297131}
   - component: {fileID: 932297132}
+  - component: {fileID: 932297133}
   m_Layer: 0
   m_Name: PlayerSprite
   m_TagString: Untagged
@@ -653,6 +654,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &932297133
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 932297130}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 957dbad53525e7b478981a91e639b2e6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1306635526
 GameObject:
   m_ObjectHideFlags: 0
@@ -696,6 +716,7 @@ MonoBehaviour:
     m_Bits: 64
   checkgroundDistance: 1
   myJoystick: {fileID: 1425311291}
+  playerSpriteAnimator: {fileID: 932297133}
 --- !u!50 &1306635528
 Rigidbody2D:
   serializedVersion: 4
