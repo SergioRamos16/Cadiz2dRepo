@@ -5,53 +5,55 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-	// Start is called before the first frame update
+    // Start is called before the first frame update
 
-	private Rigidbody2D rb;
+    private Rigidbody2D rb;
 
-	public float movementSpeed = 5;
+    public float movementSpeed = 5;
 
-	public float jumpForce = 15;
+    public float jumpForce = 15;
 
-	private float xDirection;
+    private float xDirection;
 
-	public Transform[] groundCheck;
+    public Transform[] groundCheck;
 
-	public LayerMask groundMask;
+    public LayerMask groundMask;
 
-	public float checkgroundDistance = 1f;
+    public float checkgroundDistance = 1f;
 
-	private void Start()
-	{
-		rb = GetComponent<Rigidbody2D>();
-	}
+    public FixedJoystick myJoystick;
 
-	// Update is called once per frame
-	private void Update()
-	{
-		xDirection = Input.GetAxisRaw("Horizontal");
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
 
-		if (Input.GetButtonDown("Jump") && IsGrounded())
-		{
-			rb.velocity = new Vector2(rb.velocity.x, jumpForce);
-		}
-	}
+    // Update is called once per frame
+    private void Update()
+    {
+        xDirection = myJoystick.Horizontal;
 
-	private bool IsGrounded()
-	{
-		for (int i = 0; i < groundCheck.Length; i++)
-		{
-			if (Physics2D.Raycast(groundCheck[i].position, -groundCheck[i].up, checkgroundDistance, groundMask))
-			{
-				return true;
-			}
-		}
+        if (myJoystick.Vertical > 0.7f && IsGrounded())
+        {
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+        }
+    }
 
-		return false;
-	}
+    private bool IsGrounded()
+    {
+        for (int i = 0; i < groundCheck.Length; i++)
+        {
+            if (Physics2D.Raycast(groundCheck[i].position, -groundCheck[i].up, checkgroundDistance, groundMask))
+            {
+                return true;
+            }
+        }
 
-	private void FixedUpdate()
-	{
-		rb.velocity = new Vector2(xDirection * movementSpeed, rb.velocity.y);
-	}
+        return false;
+    }
+
+    private void FixedUpdate()
+    {
+        rb.velocity = new Vector2(xDirection * movementSpeed, rb.velocity.y);
+    }
 }
